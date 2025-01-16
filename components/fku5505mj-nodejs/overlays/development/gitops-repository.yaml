@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fku5505mj-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/fku5505mj-nodejs-gitops
